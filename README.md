@@ -1,6 +1,3 @@
 # CBSMADomiciliation
-projet domiciliation pour CBSMA
-tu peux me voir?
-et moi?
-check check<br>
+projet domiciliation pour CBSMA<br>
 choufchouf
